@@ -1,0 +1,6 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "frame".(¦‚υθόÿÿÿÿ8θΣυγΡ0
+L
+java:S1481"*Remove this unused "frame" local variable.(¦‚υθόÿÿÿÿ8λΣυγΡ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ρψχ

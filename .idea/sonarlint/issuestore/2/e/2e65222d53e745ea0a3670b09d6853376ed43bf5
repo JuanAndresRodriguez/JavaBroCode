@@ -1,0 +1,7 @@
+
+^
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ÿ®“Úþÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ÿ«Îè
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¯˜šÕýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯çþÒÿÿÿÿÿ

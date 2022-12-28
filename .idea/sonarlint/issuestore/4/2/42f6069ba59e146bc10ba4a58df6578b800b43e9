@@ -1,0 +1,8 @@
+
+^
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx
+[
+java:S1854 "@Remove this useless assignment to local variable "colorChooser".(ôØıüÿÿÿÿ
+L
+java:S1481 "1Remove this unused "colorChooser" local variable.(ôØıüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ó“¶úÿÿÿÿ

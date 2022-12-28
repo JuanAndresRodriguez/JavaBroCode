@@ -1,0 +1,20 @@
+
+p	java:S116	"VRename this field "PANEL_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÈÍñÿÿÿÿÿ
+k	java:S116
+"WRename this field "PANEL_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ô½|
+E
+java:S2387"*"x" is the name of a field in "Component".(ž¾„ëüÿÿÿÿ
+E
+java:S2387"*"y" is the name of a field in "Component".(ºš¿»ùÿÿÿÿ
+<
+java:S1170	"!Make this final field static too.(ÙÈÍñÿÿÿÿÿ
+6
+java:S1170
+"!Make this final field static too.(¬ô½|
+B
+java:S1948"'Make "enemy" transient or serializable.(Ÿùï’úÿÿÿÿ
+L
+java:S1948"1Make "backgroundImage" transient or serializable.(ÊÅ©Êþÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(¶øÂÁ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®Ë÷Ö

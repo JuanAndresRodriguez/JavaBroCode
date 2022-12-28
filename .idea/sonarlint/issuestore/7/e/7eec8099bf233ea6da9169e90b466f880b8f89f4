@@ -1,0 +1,9 @@
+
+^
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx
+V	java:S125"<This block of commented-out lines of code should be removed.(€Çýÿÿÿÿ
+7	java:S131""Add a default case to this switch.(œ·’á
+<	java:S131/""Add a default case to this switch.(ù‚Óøÿÿÿÿ
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(×Äè)
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(Ëà…p
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½³Õ¯

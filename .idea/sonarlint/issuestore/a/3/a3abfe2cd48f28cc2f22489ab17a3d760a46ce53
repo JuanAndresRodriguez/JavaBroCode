@@ -1,0 +1,9 @@
+
+G
+java:S2387
+","menuBar" is the name of a field in "Frame".(ÏŽ»”úÿÿÿÿ
+^
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(æ–±åüÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(¾ª­Äøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ýØÒû
